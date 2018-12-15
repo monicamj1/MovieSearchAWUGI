@@ -1,0 +1,26 @@
+.header{
+    margin-top: 5em;
+    text-align:center;
+}
+
+.textbox{
+    width: 30em;
+    height: 1em;
+    padding:.5em;
+    font-size: 18px;
+    border-radius: .5em;
+    margin-right: 1em;
+}
+
+.searchButton{
+    width: 5em;
+    height: 2.5em;
+    padding:.5em;
+    font-size: 18px;
+    border-radius: .5em;
+}
+
+.movielist{
+    margin: 5em;
+
+}
